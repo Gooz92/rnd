@@ -2,6 +2,7 @@
   "name": "@gooz92/rnd",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/Gooz92/rnd",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
